@@ -1,6 +1,6 @@
 # 💻 Matheus S. Silva
 
-**`Engenheiro de Software`**
+**`Engenheiro de Software`** **`Estudante`** **`Entusiasta da Tecnologia`**
 
 Me chamo Matheus Souza Silva, tenho 19 anos e estou atualmente cursando o Bachalerado de Engenharia de Software na Universidade Católica de Brasília [(UCB)](https://ucb.catolica.edu.br/). Estou no 2º Semestre e já tenho experiência com Front-End, Levantamento de Requisitos, IHC, Nuvem, HTML, CSS, entre outros. Estou estudando atualmente progamação em C e as bases das linguagens de programação. Sempre tive um grande interesse por programação e tecnologia em geral, desde das inovações tecnologicas que eu vi sendo criadas quanto as tendências futuras desse mercado que esta em constante expansão e evolução. Quando eu percebi o escopo que a TI tem em todas as áreas da sociedade e o papel que ela impõe eu entendi que essa área se tornou e se afirmará ainda mais como um pilar indispensável da sociedade contemporânea e futura, eu simplesmente não podia perder a oportunidade de trabalhar em uma área tão importante que eu gosto.
 
