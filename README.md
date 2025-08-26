@@ -33,7 +33,7 @@ Me chamo Matheus Souza Silva, tenho 19 anos e estou atualmente cursando o Bachar
 />
 
 <img
-    align="left"
+    align="right"
     alt="GitHub Stats"
     height="200px"
     style="padding-right: 10px"
