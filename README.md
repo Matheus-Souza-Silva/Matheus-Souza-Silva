@@ -20,7 +20,7 @@ Me chamo Matheus Souza Silva, tenho 19 anos e estou atualmente cursando o Bachar
 
 ## 🖥️ Linguagens de Programação e Outras Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,arduino,powershell,clion,figma,github,linkedin,notion,vercel,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,arduino,powershell,figma,github,linkedin,notion,vercel,vscode,windows)](https://skillicons.dev)
 
 ## 📊 Estatísticas
 
