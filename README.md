@@ -29,14 +29,13 @@ Me chamo Matheus Souza Silva, tenho 19 anos e estou atualmente cursando o Bachar
     alt="GitHub Stats"
     height="200px"
     style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api?username=Matheus-Souza-Silva&show_icons=true&theme=github_dark_dimmed&locale=pt-br"
+    src="https://github-readme-stats-topaz-alpha.vercel.app/api?username=Matheus-Souza-Silva&show_icons=true&theme=github_dark_dimmed&locale=pt-br"
 />
 
 <img
-    align="right"
+    align="left"
     alt="GitHub Stats"
     height="200px"
-    width="40%"
     style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Souza-Silva&show_icons=true&theme=github_dark_dimmed&custom_title=Tecnologias&langs_count=7"
+    src="https://github-readme-stats-topaz-alpha.vercel.app/api/top-langs/?username=Matheus-Souza-Silva&show_icons=true&theme=github_dark_dimmed&custom_title=Tecnologias&langs_count=7"
 />
